@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <script src="https://cdn.jsdelivr.net/npm/marked/lib/marked.umd.js"></script>
+    <title>Document</title>
+    <script src="content.js"></script>
+    <style>
+      * {
+        box-sizing: border-box;
+        margin: 0;
+        padding: 0;
+      }
+
+      body {
+        display: grid;
+        gap: 2.5em;
+        padding: 2.5em 5em;
+      }
+
+      main {
+        display: grid;
+        gap: 2.5em;
+      }
+    </style>
+</head>
+<body>
+  <header>
+    <h1>Game Journal</h1>
+    <div>
+      <p> CSCI 4980: Introduction to Game Development </p>
+      <p> Jackson Werner </p>
+    </div>
+  </header>
+  <main>
+  </main>
+   <script>
+      const main = document.querySelector("main");
+      for(let i = 0; i < content.length; i++) {
+        const entry = content[i];
+        const markdown = marked.parse(entry);
+        const article = document.createElement("article");
+        article.innerHTML = markdown;
+        main.appendChild(article);
+      }
+    </script>
+</body>
+</html>
+
