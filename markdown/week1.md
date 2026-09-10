@@ -1,9 +1,9 @@
-# Prompt 1
+## Prompt 1
 Week 1  
 September 9, 2026  
-  
+### Chosen Game
 I chose Earthbound Beginnings from the classic games list.  
-  
+### First Impressions
 1. Was there a call-to-action that persuaded you to continue playing the game? 
 2. How did the game teach you its main mechanics?
 3. How did it guide you?
