@@ -85,3 +85,4 @@ I chose Earthbound Beginnings from the classic games list.
     helping me think of what to do next. Placing things like doors showed me
     where I could go, and by keeping rooms sparely decorated, it quickly became
     clear what I could and should interact with in those rooms.  
+    <br>
