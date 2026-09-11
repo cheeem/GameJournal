@@ -66,7 +66,7 @@ I chose Earthbound Beginnings from the classic games list.
     its mechanics came from things spotaneously happening as I sought out visual
     cues for how to proceed. It started with the combat system where I learned
     how to "guard" and fight, and contiued when I started to interact with
-    characters and saw new menus that enabled me to talk. 
+    characters and saw new menus that enabled me to talk.  
     <br>
 8. **How does the game feel? Do the actions feel responsive? Does movement always feel controllable or do you feel like you might lose precision over character movement in some situations? Etc.**  
     The actions and especially the menus felt very quick and responsive. The
