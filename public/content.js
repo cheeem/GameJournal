@@ -61,7 +61,7 @@ I chose Earthbound Beginnings from the classic games list.
     I'm going to have to uncover, just like I discovered that PSI is tied to
     special abilities like telepathy.  
     <br> 
-7. **Explain how you built a mental model of the game as you started playing.**<br>
+7. **Explain how you built a mental model of the game as you started playing.**  
     Again, everything I discovered and understood about the game, its story, and
     its mechanics came from things spotaneously happening as I sought out visual
     cues for how to proceed. It started with the combat system where I learned
