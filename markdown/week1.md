@@ -73,7 +73,7 @@ I chose Earthbound Beginnings from the classic games list.
     delays and turn-based nature of combat made those interactions more of a
     vague puzzle to solve rather than something I would need to quickly respond
     to. The movement felt a bit like I was skating on ice at first, but I got
-    the hang of it pretty quickly.
+    the hang of it pretty quickly.  
     <br>
 9. **How do the game visuals and audio influence the gameplay experience?**  
     The visuals and the audio were the main things keeping me progressing in the
@@ -84,4 +84,4 @@ I chose Earthbound Beginnings from the classic games list.
     between the tense and calm music. The visuals acted as a great guide for
     helping me think of what to do next. Placing things like doors showed me
     where I could go, and by keeping rooms sparely decorated, it quickly became
-    clear what I could and should interact with in those rooms.
+    clear what I could and should interact with in those rooms.  
