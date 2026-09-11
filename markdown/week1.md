@@ -4,13 +4,11 @@ September 9, 2026
 <br>
 I chose Earthbound Beginnings from the classic games list.  
 <br>
-1. **Was there a call-to-action that persuaded you to continue playing the
-   game?**  
+1. **Was there a call-to-action that persuaded you to continue playing the game?**  
     Not really, the game intially prompted me with some names and my favorite
     food, and then dropped me into its world where I ended up running into
     enemies and discovering new things about my world. It lacked instruction or 
-    a tutorial, instead relying on visual cues and curiosity to keep me engaged.
-      
+    a tutorial, instead relying on visual cues and curiosity to keep me engaged.  
     Everything very spontaneous. Through unexpected interactions like being
     attacked by a lamp when I tried to interact with a door to finding a music
     box in a doll I just defeated in battle to hearing about possessed spirits
@@ -44,8 +42,7 @@ I chose Earthbound Beginnings from the classic games list.
     how I could interact with its world and made it obvious what I could explore
     to learn more.  
     <br>
-5. **Did the game introduce an emotional element at the beginning to motivate 
-the player’s journey?**  
+5. **Did the game introduce an emotional element at the beginning to motivate the player’ s journey?**  
     With immediatelly putting me under attack by various objections meant to be
     inanimate, and then through the flashing lights and tense music I mentioned
     before, it seems to play off of anxiety more than anything to push me to
@@ -71,9 +68,7 @@ the player’s journey?**
     how to "guard" and fight, and contiued when I started to interact with
     characters and saw new menus that enabled me to talk. 
     <br>
-8. **How does the game feel? Do the actions feel responsive? Does movement 
-always feel controllable or do you feel like you might lose precision over 
-character movement in some situations? Etc.**  
+8. **How does the game feel? Do the actions feel responsive? Does movement always feel controllable or do you feel like you might lose precision over character movement in some situations? Etc.**  
     The actions and especially the menus felt very quick and responsive. The
     delays and turn-based nature of combat made those interactions more of a
     vague puzzle to solve rather than something I would need to quickly respond
