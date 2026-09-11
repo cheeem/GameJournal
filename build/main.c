@@ -12,7 +12,7 @@ char file_buf[FILE_BUF_CAP];
 
 int main(int argc, char** argv) {
   char* dir_path = "markdown";
-  char* file_path_out = "content.js";
+  char* file_path_out = "public/content.js";
 
   if(argc > 1) {
     dir_path = argv[1];
