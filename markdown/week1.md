@@ -80,7 +80,7 @@ character movement in some situations? Etc.**
     to. The movement felt a bit like I was skating on ice at first, but I got
     the hang of it pretty quickly.
     <br>
-9. **How do the game visuals and audio influence the gameplay experience?**
+9. **How do the game visuals and audio influence the gameplay experience?**  
     The visuals and the audio were the main things keeping me progressing in the
     game. As I described before, they made me a combination of stressed and
     curious in the opening scene of the game. In the opening menus and
